@@ -5,3 +5,5 @@ printer_data/logs/
 *.serial
 mainsail.cfg
 timelapse.cfg
+printer_data/config/mainsail.cfg
+printer_data/config/timelapse.cfg
