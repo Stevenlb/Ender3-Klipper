@@ -1,0 +1,5 @@
+.env
+printer_data/comms/
+printer_data/logs/
+*.sock
+*.serial
